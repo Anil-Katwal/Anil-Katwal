@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anil katwal" target="blank"><img src="https://img.shields.io/twitter/follow/anil katwal?logo=twitter&style=for-the-badge" alt="anil katwal" /></a> </p>
 
-- 🌱 I’m currently learning **GenAI,LLM**
+- 🌱 I’m currently learning **GenAI,LLM,QuantumAI**
 
 - 📫 How to reach me **aniljungkatwal@gmail.com**
 
