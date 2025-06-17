@@ -18,7 +18,7 @@
 <a href="https://kaggle.com/anil katwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anil katwal" height="30" width="40" /></a>
 <a href="https://fb.com/anil jung katwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anil jung katwal" height="30" width="40" /></a>
 <a href="https://instagram.com/anil jung katwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anil jung katwal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/anil katwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anilkatwal1706
+<a href="(https://www.youtube.com/@anilkatwal1706)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anilkatwal1706
 " height="30" width="40" /></a>
 </p>
 
