@@ -7,10 +7,19 @@
 <h3 align="center">🚀 Data Scientist | Machine Learning Engineer | Researcher</h3>
 
 <p align="center">
+I specialize in transforming complex datasets into actionable AI models, leveraging state-of-the-art techniques in deep learning, generative AI, and quantum computing. My expertise spans large language models (LLMs), agentic AI architectures, reinforcement learning algorithms, and secure multi-party computation (MPC) frameworks. Passionate about building scalable, privacy-preserving intelligent systems that drive innovation in healthcare and scientific research.
+</p>
+
+<p align="center">
   <a href="https://github.com/anil-katwal" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=anil-katwal&label=Profile%20Views&color=0e75b6&style=flat" alt="anil-katwal" />
   </a>
 </p>
+
+<p align="center">
+  Feel free to connect and explore AI innovations together!
+</p>
+
 
 ---
 
