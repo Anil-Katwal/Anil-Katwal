@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Anil Katwal</h1>
-<h3 align="center">🚀 Data Scientist | Machine Learning Engineer | Researcher</h3>
+<h3 align="center">Data Scientist | Machine Learning Engineer | Researcher</h3>
 
 <p align="center">
 I specialize in transforming complex datasets into actionable AI models, leveraging state-of-the-art techniques in deep learning, generative AI, and quantum computing. My expertise spans large language models (LLMs), agentic AI architectures, reinforcement learning algorithms, and secure multi-party computation (MPC) frameworks. Passionate about building scalable, privacy-preserving intelligent systems that drive innovation in healthcare and scientific research.
@@ -25,28 +25,28 @@ I specialize in transforming complex datasets into actionable AI models, leverag
 
 <img align="right" src="https://zbrain.ai/wp-content/uploads/2023/08/A-Paradigm-Shift-Exploring-the-Future-of-LLM-App-Development-With-ZBrain.svg" width="400"/>
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 Physics, ML, & AI Enthusiast
-- 🌱 Currently diving deep into:  
+- Physics, ML, & AI Enthusiast
+- Currently diving deep into:  
   - Generative AI (GenAI)  
   - Large Language Models (LLM)  
   - Reinforcement Learning  
   - Quantum Machine Learning  
-- 🎯 Building real-world AI apps to solve global problems
-- 🧩 I bring physics intuition & AI craftsmanship together to solve tough real‑world challenges.
+- Building real-world AI apps to solve global problems
+- I bring physics intuition & AI craftsmanship together to solve tough real‑world challenges.
 
-🌱 Currently deep‑diving into:
+Currently deep‑diving into:
 Generative AI · Agentic AI · Multi‑Agent Collaboration (MCP) · Quantum Machine Learning · Reinforcement Learning
 
-🛠️ Builder of production‑ready AI systems that scale—from LLM chatbots to computer‑vision pipelines.
+Builder of production‑ready AI systems that scale—from LLM chatbots to computer‑vision pipelines.
 
-✍️ I publish tech deep‑dives and tutorials on advanced ML topics. 
-- 📫 Reach me at: **aniljungkatwal@gmail.com**
+I publish tech deep‑dives and tutorials on advanced ML topics. 
+- Reach me at: **aniljungkatwal@gmail.com**
 
 ---
 
-### 🔗 Let's Connect
+### Let's Connect
 
 <p align="left">
   <a href="https://twitter.com/anilkatwal_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" /></a>
@@ -59,7 +59,7 @@ Generative AI · Agentic AI · Multi‑Agent Collaboration (MCP) · Quantum Mach
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
@@ -80,7 +80,7 @@ Generative AI · Agentic AI · Multi‑Agent Collaboration (MCP) · Quantum Mach
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anil-katwal&show_icons=true&theme=tokyonight&locale=en" height="170"/>
@@ -93,5 +93,5 @@ Generative AI · Agentic AI · Multi‑Agent Collaboration (MCP) · Quantum Mach
 
 ---
 
-### ⚡ Fun Fact
+### Fun Fact
 > I mix data, physics, and real-world problems to build something extraordinary – one model at a time.
